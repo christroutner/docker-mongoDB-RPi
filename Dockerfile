@@ -1,5 +1,5 @@
 FROM resin/rpi-raspbian
-MAINTAINER gabrielrf
+MAINTAINER Chris Troutner <chris.troutner@gmail.com>
 # Originally made by: https://github.com/matteoredaelli/docker-mongodb-rpi
 
 # Install required packages
